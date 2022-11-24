@@ -4,3 +4,4 @@ public class Main
         System.out.println("Welcome to Online IDE!! Happy Coding :)");
     }
 }
+exit /b 0
